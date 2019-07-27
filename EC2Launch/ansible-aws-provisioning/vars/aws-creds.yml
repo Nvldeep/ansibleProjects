@@ -1,5 +1,30 @@
 ---
 # this file can be encrypted with ansible-vault
 
-ec2_access_key: XXXXXXXXXXXX 
-ec2_secret_key: YYYYYYYYYYYYYYYYYYYYYYY
+ec2_access_key: awstestkey 
+ec2_secret_key: PuTTY-User-Key-File-2: ssh-rsa
+Encryption: none
+Comment: imported-openssh-key
+Public-Lines: 6
+AAAAB3NzaC1yc2EAAAADAQABAAABAQDUB5vU3H0z4YCp+lPfoXwoplcGs+6Lp6+m
+OU4kaDAwbMjfYjo/n2Gs66NUzu9/+PO8gfuncgIMG/yChm7SwpSZvAXtebfAknAH
+pqM3NS72hOIcIX1BNKWzp7US7A6dvKp0jfrxhdkijfsWX41eJCy2ZQ25l1xR5j5R
+Q3Mr0hZOAwyfFWoto8WdNldAUPKJjTC/xBayu0X0XbekwiyxkFP9ATB24ExcvQ5E
++NVeiIOOeGg1ELID6JR1Aak3D8I3LvfQPtZAlhYx5m/3CT/THykelFjZxN7gVD1Y
+/HI1vi7QJKIoQDjf6HEYTVxS/LYjIXaJ5YV09FMYd598nMbGkAzb
+Private-Lines: 14
+AAABAG/WM5PrWP7sivkdWPA0NVEbq/uVHNX89OEwiM8bRY/FUY7COQcmAlc7U0OA
+g0N1BNsBlMOVlw7cFCyky//PMqKEUnwYH5wroXvnoV+VZdgR71H3OCIUqvJAG3qH
+mI4K3b3sxdhvSUC4sx/x9pcZbZwnYT3rYH6ye1xRv4X1ol4yt3d9hXQpkMlyZBKv
+/IFNX/frhVctXNcr/k0dc4NF+Ke2DlGYILmxzk+iuzobPlp1ljchMiK8iEQAnq7v
+yfkWvUnp2Rx3Iofi7jO0t1x40DqoIUK1fAiOLjAMOfa/KV6gdzsclxFZwyWQhHwF
+fjxaDvd5mJCvAUkIHaZZ1IrOGoEAAACBAPTyppJjF5o+NcA/DkRB2EA67IeYC5Ff
+XThlu+j6taGgBeE2ADzokSaDPPwoEUs8S0nMMrK4sh/CasSm/wt/skC/soa6pZMW
+3yKeu8V+wV/4zAa4W99E0SdxEIX3nU2N9v7nPfLeZ9Oc4MJKDma4ajBiruZ7zoit
+uW7jNJUzpahjAAAAgQDdmLn9KaTWkYPld7i0MfMjT/ga51wUhrez922VhunkzF9y
++yecn1e/ON5tO0ain+CRjEzlQYGdwDWXfNJhdLZQU/nVT+fepa6RA3EAoWJfQAaP
+Ern/Frn0zQGXf+H11UV4ZJZP2xrqn/ObbFSNIxX7q5BRhb2QLaaAWugkgWsnKQAA
+AIEAmt1OBnU2lIYXakMN2Cafwk/gkU1o3VUtJsmfMVmwaKw/1oJwAJ41dQG2+6GE
+uOX0Fm1B0ruoCmUxB/rQO+x7XLP2xXxSEYm3abz4kotKSVhq7FFEO9zIOk5wC6Te
+cR3ffRVrUQTsfZ7PTA3lb4Ziz711ujDMI6L9GIRjfWANT90=
+Private-MAC: ace8b40c6ff4e30c78ce899d62f9f2b052248199
